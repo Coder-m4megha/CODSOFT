@@ -4,9 +4,11 @@
 This repository showcases several frontend web development projects I created using HTML, CSS, and JavaScript. These projects reflect my ability to develop responsive, interactive, and user-friendly web applications.
 
 **Projects Overview**
+
 1. Calculator Application
 
 A simple, functional calculator that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
 **Tech Stack:**
 HTML, CSS, JavaScript
 **Features:**
@@ -14,7 +16,7 @@ Clear and backspace buttons for correcting inputs
 Responsive design for mobile and desktop
 Dark mode theme toggle
 
-2.** Loading Page**
+2.Loading Page
 
 A responsive e-commerce website built for a fruits and vegetables store, featuring categorized products, a cart system, and customer reviews.
 **Tech Stack:**
@@ -24,7 +26,7 @@ Smooth navigation with a responsive layout
 Product categories and discount badges
 Customer reviews and integrated shopping cart
 
-3. **Personal Portfolio Website**
+3.Personal Portfolio Website
 
 A personal portfolio showcasing my skills, services, projects, and contact information.
 **Tech Stack: **
