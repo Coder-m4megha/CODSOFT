@@ -11,30 +11,27 @@ A personal portfolio showcasing my skills, services, projects, and contact infor
 #### Tech Stack: 
 HTML, CSS, JavaScript
 
+### Features
 Dynamic text animations and liquid shape effects  
 Sections for skills, services, portfolio projects, and contact form  
 Social media links and downloadable resume
-#### Tech Stack: 
-HTML, CSS, JavaScript
-#### Tech Stack: 
-HTML, CSS, JavaScript
-#### Tech Stack: 
-HTML, CSS, JavaScript
+
 ## 2.Loading Page
 A responsive e-commerce website built for a fruits and vegetables store, featuring categorized products, a cart system, and customer reviews.
 
-Dynamic text animations and liquid shape effects  
-Sections for skills, services, portfolio projects, and contact form  
-Social media links and downloadable resume
+#### Tech Stack: 
+HTML, CSS,
+
 ### Features
 Smooth navigation with a responsive layout  
 Product categories and discount badges  
 Customer reviews and integrated shopping cart
+
 ## Calculator
 A simple, functional calculator that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-
-
+#### Tech Stack: 
+HTML, CSS, JavaScript
 
 ### Features
 Clear and backspace buttons for correcting inputs 
