@@ -5,14 +5,11 @@ This repository showcases several frontend web development projects I created us
 
 **Projects Overview**
 1. **Calculator Application**
-
-
+   
 A simple, functional calculator that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 **Tech Stack:**
-
 HTML, CSS, JavaScript
 **Features:**
-
 Clear and backspace buttons for correcting inputs
 Responsive design for mobile and desktop
 Dark mode theme toggle
